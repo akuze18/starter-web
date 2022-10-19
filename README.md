@@ -20,4 +20,4 @@ Pleas folk this repository and then issue Pull Requests for review.
 
 ## Copyright
 
-2022 UOH
+2022 UOH. All rights reserved.
