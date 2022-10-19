@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ariel Quispe    Developer   ariel.quispe@uoh.cl   
 
 # THANKS
 
