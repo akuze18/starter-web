@@ -17,3 +17,7 @@ This is asimple web project, deployment can be on any web server on even local f
 ## How to Contribute
 
 Contribute here
+
+## Copyright
+
+2022 UOH
